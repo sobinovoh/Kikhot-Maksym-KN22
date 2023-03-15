@@ -34,9 +34,10 @@
 				</Linker>
 			</Target>
 		</Build>
-		<Unit filename="LAB_8_1.cpp" />
-		<Unit filename="ModulesKikhot.cpp" />
 		<Unit filename="ModulesKikhot.h" />
+		<Unit filename="main.cpp">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
